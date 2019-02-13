@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang='en'>
+<title>Web Technology Presentation</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body bgcolor=lightgray>
+<!-- Navbar -->
+<div class="w3-top">
+<div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+<a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Evolution of Vehicles</a>
+<a href="car.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Cars</a>
+<a href="bike.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Bikes</a>
+<a href="mv.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Military Vehicles</a>
+<a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Trains</a>
+<a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Contributors</a>
+</div>
+</div>
+<div class="w3-row w3-padding-64">
+<div class="w3-twothird w3-container">
+<h1 class="w3-text-teal">Heading</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsumdolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utlabore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+</div>
+<div class="w3-row">
+<div class="w3-twothird w3-container">
+<h1 class="w3-text-teal">Heading</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt uoret dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+</div>
+<div class="w3-row w3-padding-64">
+<div class="w3-twothird w3-container">
+<h1 class="w3-text-teal">Heading</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+</div>
+</body>
+</html>
